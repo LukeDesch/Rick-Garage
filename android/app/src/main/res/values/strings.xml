@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Rick\'s Garage Terminal</string>
+    <string name="title_activity_main">Rick\'s Garage Terminal</string>
+    <string name="package_name">com.ricksgarage.terminal</string>
+    <string name="custom_url_scheme">com.ricksgarage.terminal</string>
+</resources>

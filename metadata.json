@@ -1,0 +1,5 @@
+{
+  "name": "Rick's Garage Terminal",
+  "description": "Explore Rick Sanchez's device blueprints, generate images, and ask the AI for more details. Now with native Android support via Capacitor.",
+  "requestFramePermissions": []
+}
